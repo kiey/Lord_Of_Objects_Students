@@ -1,4 +1,4 @@
-# The Lord of Objects
+# The Lord of the Objects
 
 Se quiere implementar un programa que gestione los diferentes habitantes de la Tierra Media.
 
