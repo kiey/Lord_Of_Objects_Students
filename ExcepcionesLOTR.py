@@ -1,0 +1,2 @@
+class ExcepcionesLOTR(Exception):
+    pass
